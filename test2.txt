@@ -1,1 +1,38 @@
-CHANGE 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Test Project</title>
+	<style>
+	body {
+	background-color: lime;
+	margin: 30px
+	}
+
+	h1 {
+	font-style: helvetica;
+	font-effect: italic;
+	}
+
+	p {
+	font-style: comic sans;
+	font-effect:bold;
+	}
+
+	button {
+	background-colour: rose;
+	font-colour: white;
+	border: 4px;
+	border-color: blue;
+	}
+	</style>
+<head>
+<body>
+	<h1>This is my project based on what I have learned so far</h1>
+	<button>Click here to see how clever I am</button>
+
+	<p>I have been learning how to <strong>code</strong> for a few weeks now.</p>
+	<p>It is pretty fun and it would be <em>cool</em> to get a job doing it.</p>
+	<button type="radio">Choose me!</button>
+	<button type="radio">No, choose me!</button>
+</body>
+</html>
